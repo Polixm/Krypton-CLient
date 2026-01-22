@@ -1,2 +1,8 @@
 # Krypton-CLient
-Krypton Cracked is arrived
+
+
+# README
+
+keybind: mc options keybinds and put a random keybind
+
+ONLY 1.21+
